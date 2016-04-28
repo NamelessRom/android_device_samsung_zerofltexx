@@ -1,0 +1,8 @@
+[
+    {
+        "remote": "github",
+        "repository": "NamelessRom/android_device_samsung_zero-common",
+        "target_path": "device/samsung/zero-common",
+        "revision": "n-3.0"
+    }
+]
